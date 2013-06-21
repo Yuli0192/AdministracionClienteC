@@ -1,0 +1,7 @@
+c:\users\yuli\documents\visual studio 2010\Projects\AdministracionClienteC\CllLogicaNegocios\bin\Debug\CllLogicaNegocios.dll
+c:\users\yuli\documents\visual studio 2010\Projects\AdministracionClienteC\CllLogicaNegocios\bin\Debug\CllLogicaNegocios.pdb
+c:\users\yuli\documents\visual studio 2010\Projects\AdministracionClienteC\CllLogicaNegocios\bin\Debug\CllAccesoDatos.dll
+c:\users\yuli\documents\visual studio 2010\Projects\AdministracionClienteC\CllLogicaNegocios\bin\Debug\CllAccesoDatos.pdb
+c:\users\yuli\documents\visual studio 2010\Projects\AdministracionClienteC\CllLogicaNegocios\obj\Debug\CllLogicaNegocios.csprojResolveAssemblyReference.cache
+c:\users\yuli\documents\visual studio 2010\Projects\AdministracionClienteC\CllLogicaNegocios\obj\Debug\CllLogicaNegocios.dll
+c:\users\yuli\documents\visual studio 2010\Projects\AdministracionClienteC\CllLogicaNegocios\obj\Debug\CllLogicaNegocios.pdb

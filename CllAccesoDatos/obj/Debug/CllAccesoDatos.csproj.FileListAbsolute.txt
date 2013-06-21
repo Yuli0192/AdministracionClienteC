@@ -1,0 +1,4 @@
+c:\users\yuli\documents\visual studio 2010\Projects\AdministracionClienteC\CllAccesoDatos\bin\Debug\CllAccesoDatos.dll
+c:\users\yuli\documents\visual studio 2010\Projects\AdministracionClienteC\CllAccesoDatos\bin\Debug\CllAccesoDatos.pdb
+c:\users\yuli\documents\visual studio 2010\Projects\AdministracionClienteC\CllAccesoDatos\obj\Debug\CllAccesoDatos.dll
+c:\users\yuli\documents\visual studio 2010\Projects\AdministracionClienteC\CllAccesoDatos\obj\Debug\CllAccesoDatos.pdb

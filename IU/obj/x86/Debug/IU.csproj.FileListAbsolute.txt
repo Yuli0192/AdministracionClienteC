@@ -1,0 +1,12 @@
+c:\users\yuli\documents\visual studio 2010\Projects\AdministracionClienteC\IU\bin\Debug\IU.exe
+c:\users\yuli\documents\visual studio 2010\Projects\AdministracionClienteC\IU\bin\Debug\IU.pdb
+c:\users\yuli\documents\visual studio 2010\Projects\AdministracionClienteC\IU\bin\Debug\CllLogicaNegocios.dll
+c:\users\yuli\documents\visual studio 2010\Projects\AdministracionClienteC\IU\bin\Debug\CllAccesoDatos.dll
+c:\users\yuli\documents\visual studio 2010\Projects\AdministracionClienteC\IU\bin\Debug\CllLogicaNegocios.pdb
+c:\users\yuli\documents\visual studio 2010\Projects\AdministracionClienteC\IU\bin\Debug\CllAccesoDatos.pdb
+c:\users\yuli\documents\visual studio 2010\Projects\AdministracionClienteC\IU\obj\x86\Debug\IU.csprojResolveAssemblyReference.cache
+c:\users\yuli\documents\visual studio 2010\Projects\AdministracionClienteC\IU\obj\x86\Debug\IU.frmCliente.resources
+c:\users\yuli\documents\visual studio 2010\Projects\AdministracionClienteC\IU\obj\x86\Debug\IU.Properties.Resources.resources
+c:\users\yuli\documents\visual studio 2010\Projects\AdministracionClienteC\IU\obj\x86\Debug\IU.csproj.GenerateResource.Cache
+c:\users\yuli\documents\visual studio 2010\Projects\AdministracionClienteC\IU\obj\x86\Debug\IU.exe
+c:\users\yuli\documents\visual studio 2010\Projects\AdministracionClienteC\IU\obj\x86\Debug\IU.pdb
